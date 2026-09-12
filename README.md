@@ -8,7 +8,6 @@
 <a href="mailto:amansharma12607@gmail.com"><img src="https://img.shields.io/badge/Gmail-0A0A0A?style=for-the-badge&logo=gmail&logoColor=ea4335"/></a>
 </div>
 <br/>
-### 一 · Now
 
 Founder & CEO, **Solvor Private Limited** — deep-tech at the intersection of neurotechnology, cybersecurity, AI, electronic warfare, and RF signal processing for contested environments.
 
