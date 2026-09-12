@@ -15,7 +15,7 @@ Founder & CEO, **Solvor Private Limited**: deep-tech at the intersection of neur
 
 ### 二 · Stack
 
-<div align="center">
+<div align="left">
 
 **Languages**
 <br/>
