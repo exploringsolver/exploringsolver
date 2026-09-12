@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=AMAN%20SHARMA&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Founder%20%C2%B7%20Solvor%20%7C%20RF%2FSIGINT%20%2B%20AI%20Systems&descAlignY=58&descSize=16&animation=fadeIn" width="100%" height="30%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=AMAN%20SHARMA&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Founder%20%C2%B7%20Solvor&descAlignY=58&descSize=16&animation=fadeIn" width="100%" height="30%"/>
 
 <a href="https://linkedin.com/in/aman-sharma-a37072263"><img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=00d9ff"/></a>
 <a href="https://leetcode.com/exploringsolver"><img src="https://img.shields.io/badge/LeetCode-0A0A0A?style=for-the-badge&logo=leetcode&logoColor=ffa116"/></a>
