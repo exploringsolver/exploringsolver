@@ -57,45 +57,7 @@ Founder & CEO, **Solvor Private Limited** — deep-tech at the intersection of n
 <img src="https://img.shields.io/badge/Redis-000000?style=flat-square&logo=redis&logoColor=DC382D"/>
 
 </div>
-
 <br/>
-
-### 二 · Experience
-
-| Role | Org | Period |
-|---|---|---|
-| Founder & CEO | Solvor Private Limited | Dec 2025 – Present |
-| Software Dev & AI Intern | AstroRaaga | Apr 2025 – Oct 2025 |
-| XR Development Intern | National Disaster Response Force (NDRF) | Jan 2025 – Mar 2025 |
-| Software Development Intern | National Informatics Centre (NIC), New Delhi | Jul 2024 – Aug 2024 |
-| Full Stack Developer Intern | MAIMS, MAIT (New Delhi) | May 2023 – Aug 2023 |
-
-<br/>
-
-### 三 · Projects
-
-**Bylexa** — voice-driven multi-action automation across AI agents, OS controls, and ESP32 IoT hardware.
-`React Native` `Express.js` `MongoDB` `GenAI` `ESP32`
-
-**EnoBridge** — cross-chain transfer infrastructure with relayers, gasless forwarders, and bridge workflows for EVM chains.
-`Solidity` `Hardhat` `Next.js` `Web3.js`
-
-**Project Scion** — persistent cognitive digital twin engine with vector memory, a state space model, and a homeostatic emotion engine.
-`Python` `FastAPI` `Gemini` `ChromaDB` `State Space Models`
-
-**Vusio** — AI-powered virtual power plant aggregating distributed storage and compute for grid reserves and demand response.
-`React` `Node.js` `Python` `MQTT` `Redis` `MongoDB` `ML`
-
-<br/>
-
-### 四 · Achievements
-
-Build for Bharat Winner · Smart India Hackathon '23 Winner · Stage 1 & 2 Winner, AI Grand Challenge (NCIIPC)
-Empowher'23 (IIIT Delhi) — 1st · HackXtreme'23 (IIT Delhi) — 1st · SIH Ide Bootcamp — Top Performer
-Top 5, HackIITK Cybersecurity Hackathon (IIT Kanpur) · Top 10, HackHazards'24 · Top 10, Code Kshetra 2.0
-
-<br/>
-
 <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%"/>
 
 <div align="center">
