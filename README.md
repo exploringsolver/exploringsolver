@@ -9,7 +9,7 @@
 </div>
 <br/>
 
-Founder & CEO, **Solvor Private Limited** — deep-tech at the intersection of neurotechnology, cybersecurity, AI, electronic warfare, and RF signal processing for contested environments.
+Founder & CEO, **Solvor Private Limited**: deep-tech at the intersection of neurotechnology, cybersecurity, AI, electronic warfare, and RF signal processing for contested environments.
 
 <br/>
 
