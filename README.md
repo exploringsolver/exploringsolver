@@ -6,13 +6,8 @@
 <a href="https://leetcode.com/exploringsolver"><img src="https://img.shields.io/badge/LeetCode-0A0A0A?style=for-the-badge&logo=leetcode&logoColor=ffa116"/></a>
 <a href="https://codeforces.com/profile/solverAman"><img src="https://img.shields.io/badge/Codeforces-0A0A0A?style=for-the-badge&logo=codeforces&logoColor=1f8acb"/></a>
 <a href="mailto:amansharma12607@gmail.com"><img src="https://img.shields.io/badge/Gmail-0A0A0A?style=for-the-badge&logo=gmail&logoColor=ea4335"/></a>
-
 </div>
-
 <br/>
-
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="50%"/>
-
 ### 一 · Now
 
 Founder & CEO, **Solvor Private Limited** — deep-tech at the intersection of neurotechnology, cybersecurity, AI, electronic warfare, and RF signal processing for contested environments.
