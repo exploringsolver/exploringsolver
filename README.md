@@ -56,7 +56,6 @@ Founder & CEO, **Solvor Private Limited** — deep-tech at the intersection of n
 <br/>
 
 <div align="center">
-<sub>ⅰ</sub>
 <table>
 <tr>
 <td align="center" width="50%">
