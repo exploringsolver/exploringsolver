@@ -80,5 +80,4 @@ Founder & CEO, **Solvor Private Limited** — deep-tech at the intersection of n
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=exploringsolver&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=exploringsolver&theme=tokyonight&hide_border=true&background=0d1117" width="49%"/>
 </div>
