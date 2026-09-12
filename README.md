@@ -15,7 +15,7 @@
 
 ### 一 · Now
 
-Founder & CEO, **Solvor Private Limited** — deep-tech at the intersection of neurotechnology, cybersecurity, AI, electronic warfare, and RF signal processing for contested environments. Working with government bodies including **NCIIPC** on RF emitter localization, geolocation pipelines, and AI-driven SIGINT / RF threat intelligence.
+Founder & CEO, **Solvor Private Limited** — deep-tech at the intersection of neurotechnology, cybersecurity, AI, electronic warfare, and RF signal processing for contested environments.
 
 <br/>
 
