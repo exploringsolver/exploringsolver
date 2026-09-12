@@ -29,7 +29,6 @@ Founder & CEO, **Solvor Private Limited** — deep-tech at the intersection of n
 <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
 <img src="https://img.shields.io/badge/Solidity-000000?style=flat-square&logo=solidity&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/C++-000000?style=flat-square&logo=cplusplus&logoColor=00599C"/>
-
 **Full-Stack**
 <br/>
 <img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=61DAFB"/>
@@ -39,14 +38,12 @@ Founder & CEO, **Solvor Private Limited** — deep-tech at the intersection of n
 <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/FastAPI-000000?style=flat-square&logo=fastapi&logoColor=009688"/>
 <img src="https://img.shields.io/badge/MongoDB-000000?style=flat-square&logo=mongodb&logoColor=47A248"/>
-
 **AI / ML**
 <br/>
 <img src="https://img.shields.io/badge/Gemini-000000?style=flat-square&logo=googlegemini&logoColor=8E75FF"/>
 <img src="https://img.shields.io/badge/Scikit--learn-000000?style=flat-square&logo=scikitlearn&logoColor=F7931E"/>
 <img src="https://img.shields.io/badge/Pandas-000000?style=flat-square&logo=pandas&logoColor=150458"/>
 <img src="https://img.shields.io/badge/ChromaDB-000000?style=flat-square&logo=databricks&logoColor=ff6f61"/>
-
 **Web3 / IoT / XR**
 <br/>
 <img src="https://img.shields.io/badge/Hardhat-000000?style=flat-square&logo=ethereum&logoColor=FFF100"/>
@@ -55,10 +52,8 @@ Founder & CEO, **Solvor Private Limited** — deep-tech at the intersection of n
 <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/MQTT-000000?style=flat-square&logo=eclipsemosquitto&logoColor=3C5280"/>
 <img src="https://img.shields.io/badge/Redis-000000?style=flat-square&logo=redis&logoColor=DC382D"/>
-
 </div>
 <br/>
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%"/>
 
 <div align="center">
 <sub>ⅰ</sub>
