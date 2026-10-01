@@ -23,6 +23,7 @@ Founder & CEO, **Solvor Private Limited**: deep-tech at the intersection of neur
 <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
 <img src="https://img.shields.io/badge/Solidity-000000?style=flat-square&logo=solidity&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/C++-000000?style=flat-square&logo=cplusplus&logoColor=00599C"/>
+<br/>
 **Full-Stack**
 <br/>
 <img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=61DAFB"/>
@@ -32,12 +33,14 @@ Founder & CEO, **Solvor Private Limited**: deep-tech at the intersection of neur
 <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/FastAPI-000000?style=flat-square&logo=fastapi&logoColor=009688"/>
 <img src="https://img.shields.io/badge/MongoDB-000000?style=flat-square&logo=mongodb&logoColor=47A248"/>
+<br/>
 **AI / ML**
 <br/>
 <img src="https://img.shields.io/badge/Gemini-000000?style=flat-square&logo=googlegemini&logoColor=8E75FF"/>
 <img src="https://img.shields.io/badge/Scikit--learn-000000?style=flat-square&logo=scikitlearn&logoColor=F7931E"/>
 <img src="https://img.shields.io/badge/Pandas-000000?style=flat-square&logo=pandas&logoColor=150458"/>
 <img src="https://img.shields.io/badge/ChromaDB-000000?style=flat-square&logo=databricks&logoColor=ff6f61"/>
+<br/>
 **Web3 / IoT / XR**
 <br/>
 <img src="https://img.shields.io/badge/Hardhat-000000?style=flat-square&logo=ethereum&logoColor=FFF100"/>
